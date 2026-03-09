@@ -1,0 +1,2 @@
+"off_the_shelf_auditor": false
+"default_black_out_nsfw": false
